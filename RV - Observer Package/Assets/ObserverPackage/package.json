@@ -1,0 +1,27 @@
+{
+  "name": "com.vr.observerpackage",
+  "version": "1.0.0",
+  "displayName": "Observer System",
+  "description": "This is an demo package for the Observer Pattern",
+  "unity": "6000.0",  
+  "documentationUrl": "https://example.com/",    
+  "keywords": [
+    "library",
+    "utility",
+    "template"
+  ],
+  "samples": [
+    {
+      "displayName": "Samples",
+      "description": "A specialized implementation demonstrating how to use the Observer pattern.",
+      "path" : "Samples~/ObserverSample",
+      "dependencies": {
+        "com.unity.modules.ui": "1.0.0"
+      }
+    }
+  ],
+  "author": {
+    "name": "Roman Vitolo",    
+    "url": "https://romanvitolo.com"
+  }
+}

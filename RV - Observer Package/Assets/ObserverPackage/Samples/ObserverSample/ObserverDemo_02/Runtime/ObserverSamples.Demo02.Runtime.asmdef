@@ -1,0 +1,16 @@
+{
+    "name": "ObserverSamples.Demo02.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:bd5553dbc535cd446871396411f73ec7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
